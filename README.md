@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohan 👋</h1>
 
 <p align="center">
-Data science &amp; GenAI engineer fresh out of NIT Jamshedpur, currently a decision science intern at SquadStack.<br/>
+Data science &amp; GenAI engineer fresh out of NIT Jamshedpur, worked as a Decision Science intern at SquadStack.<br/>
 I build retrieval systems, evaluation pipelines, and fraud models that go past the notebook and into production.
 </p>
 
@@ -54,6 +54,7 @@ I build retrieval systems, evaluation pipelines, and fraud models that go past t
 
 <br/>
 
+### Let's connect!
 <p align="center">
   <a href="https://github.com/Rohan-Kumar-29">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
